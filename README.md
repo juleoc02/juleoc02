@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Justin O'Connor
 - 👀 I’m interested in topology optimization, nonlinear optimization, finite elements, additive manufacturing, and math outreach.
-- 🌱 I’m currently learning 
+- 🌱 I’m currently learning openMPI, and modifications of algorithms to work in parallel.
 - 📫 If you want to reach me, email me at justin.oconnor@colostate.edu
 
 <!---
